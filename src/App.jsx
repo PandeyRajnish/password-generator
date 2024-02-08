@@ -3,9 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <div>
-        <p>Password Generator</p>
-      </div>
+      <h1 className="text-4xl text-center text-white">Password Generator</h1>
     </>
   );
 }
